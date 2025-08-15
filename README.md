@@ -23,6 +23,7 @@
 <h2>Certifications:</h2>
 
   - [Certified in Cybersecurity (ISC2)](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Certified in Cybersecurity (ISC2)](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 <h2>📺 Popular YouTube Videos</h2>
 
