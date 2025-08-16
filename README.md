@@ -4,7 +4,7 @@
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Securing Multi-LAN Networks with pfSense: A Practical Implementation</b>
-  - [Firewall Deployment and LAN Segmentation with pfSense Router](https://github.com/Prosper-Eromonsele/SecureNetworkLab)
+  - [Firewall Deployment and LAN Segmentation with pfSense Router](https://github.com/Prosper-Eromonsele/Pfsense-Firewall-Deployment-Lab)
 - <b>Design and Implementation of a Secure Virtual Network Infrastructure for Scalable Enterprise Growth</b>
   - [Secure Network Architecture with Virtualization](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Penetration Testing of Upgraded Network Infrastructure with Production Server Deployment</b>
