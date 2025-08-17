@@ -1,5 +1,4 @@
 <h1>Hi, I'm Prosper!</h1>
- <h1><br/><a href="https://github.com/Prosper-Eromonsele">Cyber Security Specialist</a> <a href="https://www.linkedin.com/in/prosper-eromonsele-4023b2261/">Digital Forensics/Incident Response | Vulnerability Analyst | Threat Management | Pentester | Ethical Hacker | Cyber Security Instructor</a></h1>
 
 <h2>Cybersecurity Projects:</h2>
 
