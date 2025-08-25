@@ -2,11 +2,9 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- <b>Securing Multi-LAN Networks with pfSense: A Practical Implementation</b>
+- <b>Multi-LAN Networks Implementation, Security and Penetration Testing: A Practical Implementation</b>
   - [Firewall Deployment and LAN Segmentation with pfSense Router](https://github.com/Prosper-Eromonsele/Pfsense-Firewall-Deployment-Lab)
-- <b>Design and Implementation of a Secure Virtual Network Infrastructure for Scalable Enterprise Growth</b>
   - [Secure Network Architecture with Virtualization](https://github.com/Prosper-Eromonsele/SecureNetworkLab)
-- <b>Penetration Testing of Upgraded Network Infrastructure with Production Server Deployment</b>
   - [Penetration Testing for Network Security Upgrade](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 - <b>PowerShell</b>
