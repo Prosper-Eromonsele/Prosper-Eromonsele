@@ -30,7 +30,34 @@
 - [Ransomware Demonstration (C#)]()
 - [Is WGU Legit?]()
 
+<h2>🤳 Connect with me:</h2>
 
+<a href="https://www.linkedin.com/in/prosper-eromonsele" target="_blank">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Prosper-Eromonsele" target="_blank">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.youtube.com/@tech-capacity" target="_blank">
+  <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://x.com/ProsperEro85748" target="_blank">
+  <img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" />
+</a>
+<a href="https://www.tiktok.com/@techcapacity" target="_blank">
+  <img align="left" alt="TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
+</a>
+<a href="https://medium.com/@prospereromonsele" target="_blank">
+  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://linktr.ee/ProsperEromonsele" target="_blank">
+  <img align="left" alt="Linktree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linktree.svg" />
+</a>
+
+<br><br>
+
+**📧 Email:** [prospereromonsele6@gmail.com](mailto:prospereromonsele6@gmail.com)  
+**💬 WhatsApp:** [+234 703 419 9540](https://wa.me/2347034199540)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
