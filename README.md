@@ -41,18 +41,14 @@
 <a href="https://www.youtube.com/@tech-capacity" target="_blank">
   <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://x.com/ProsperEro85748" target="_blank">
-  <img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" />
-</a>
+
 <a href="https://www.tiktok.com/@techcapacity" target="_blank">
   <img align="left" alt="TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />
 </a>
 <a href="https://medium.com/@prospereromonsele" target="_blank">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://linktr.ee/ProsperEromonsele" target="_blank">
-  <img align="left" alt="Linktree" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linktree.svg" />
-</a>
+
 
 <br><br>
 
