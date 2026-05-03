@@ -5,7 +5,7 @@
 - <b>Multi-LAN Networks Implementation, Security and Penetration Testing: A Practical Implementation</b>
   - [Firewall Deployment and LAN Segmentation with pfSense Router](https://github.com/Prosper-Eromonsele/Pfsense-Firewall-Deployment-Lab)
   - [Secure Network Architecture with Virtualization](https://github.com/Prosper-Eromonsele/SecureNetworkLab)
-  - [Penetration Testing for Network Security Upgrade](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Penetration Testing for Network Security Upgrade]()
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Prosper-Eromonsele/Sentinel-Lab)
