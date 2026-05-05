@@ -11,16 +11,16 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Prosper-Eromonsele/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/Prosper-Eromonsele/Jwipe---Disk-Sanitization-)
   - [Active Directory Bulk User Creation](https://github.com/Prosper-Eromonsele/Active-Directory-ps1)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [FIM (File Integrity Monitor)]()
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Ransomware Proof of Concept (Encrypter)]()
+  - [Ransomware Proof of Concept (Decrypter)]()
+  - [Keylogger with Email Capability]()
 
 <h2>Certifications:</h2>
 
-  - [Certified in Cybersecurity (ISC2)](https://github.com/joshmadakor1/Key-Logger-With-Email)
-  - [Certified in Cybersecurity (ISC2)](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Certified in Cybersecurity (ISC2)]()
+  - [Certified in Cybersecurity (ISC2)]()
 
 <h2>📺 Popular YouTube Videos</h2>
 
